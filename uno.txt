@@ -1,0 +1,3 @@
+La Tandy 2000 corre MS-DOS pero
+no puede usar programas producidos para
+la IBM Personal Computer 
